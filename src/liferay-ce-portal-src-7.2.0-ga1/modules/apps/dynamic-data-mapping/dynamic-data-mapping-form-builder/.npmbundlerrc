@@ -1,0 +1,9 @@
+{
+	"config": {
+		"imports": {
+			"dynamic-data-mapping-form-field-type": {
+				"/": ">=4.0.0"
+			}
+		}
+	}
+}
